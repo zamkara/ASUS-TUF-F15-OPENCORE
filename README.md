@@ -1,4 +1,4 @@
-# Hackintosh Guide for **Asus TUF F15 - FX506LH**
+# Hackintosh for **Asus TUF F15 - FX506LH**
 
 
 ![Asus FX506LHB running macOS Ventura](https://raw.githubusercontent.com/zamkara/ASUS-TUF-F15-OPENCORE/main/Assets/sm.png)
